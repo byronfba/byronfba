@@ -1,6 +1,6 @@
-##¡Hola a todos! 👋
+## ¡Hola a todos! 👋
 
-###¡Bienvenidos a mi perfil de GitHub!
+### ¡Bienvenidos a mi perfil de GitHub!
 
 Soy un entusiasta de la tecnología, innovador, analítico y creativo. Me encanta explorar nuevas ideas y soluciones creativas en el mundo de la tecnología.
 
